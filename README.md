@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer" />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/n8n.svg" height="40" alt="n8n" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="40" alt="n8n" />
 </div>
 
 ---
